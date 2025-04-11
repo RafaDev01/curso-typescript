@@ -1,0 +1,12 @@
+"use strict";
+let vsnome;
+vsnome = null;
+let vsnome2;
+let vnome3;
+console.log(vsnome2);
+console.log(vsnome);
+console.log(vnome3);
+vnome3 = "Rafael Nascimento";
+console.log(vnome3);
+vnome3 = 25;
+console.log(vnome3);
